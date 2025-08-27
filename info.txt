@@ -17,6 +17,10 @@
 # https://medium.com/@simple.schwarz/how-to-build-a-gan-for-generating-mnist-digits-in-pytorch-b9bf71269da8
 # https://zackproser.com/blog/mnist-pytorch-hand-drawn-digit-recognizer
 # https://cocalc.com/github/ibm/watson-machine-learning-samples/blob/master/cpd4.0/notebooks/python_sdk/deployments/pytorch/Use%20Pytorch%20to%20recognize%20hand-written%20digits.ipynb
+# https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition/
+# https://www.geeksforgeeks.org/python/python-classifying-handwritten-digits-with-tensorflow/
+# https://github.com/kavicastelo/digit-recognizer-ml
+# https://medium.com/@sidharthgn/handwritten-digit-recognition-on-mnist-dataset-using-python-4e36ce630995
 
 # Py
 # https://stackoverflow.com/questions/57502484/what-is-the-difference-between-a-py-file-and-ipynb-file
