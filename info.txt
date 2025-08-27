@@ -1,0 +1,52 @@
+
+# Recognition
+# https://github.com/trekhleb/machine-learning-experiments/blob/master/experiments/digits_recognition_mlp/digits_recognition_mlp.ipynb
+# https://github.com/trekhleb/machine-learning-experiments/blob/master/experiments/digits_recognition_cnn/digits_recognition_cnn.ipynb
+# https://github.com/printfinn/mnist/blob/master/Handwritten%20Digit%20Recognition.ipynb
+# https://colab.research.google.com/github/trekhleb/machine-learning-experiments/blob/master/experiments/digits_recognition_mlp/digits_recognition_mlp.ipynb
+# https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html
+# https://colab.research.google.com/github/Aafreen2603/Handwritten-digit-recognition-using-CNN/blob/main/Handwritten_digit_recognition.ipynb
+# https://medium.com/dataseries/a-simple-introduction-to-deep-learning-recognizing-handwritten-digits-323228426ce7
+# https://thedatafrog.com/en/articles/handwritten-digit-recognition-scikit-learn/
+# https://cocalc.com/share/public_paths/abe10a55d29e02e9b06d7c2d7be086bcb9c0f2ab/Self-study%20Notebooks/03%20-%20Numbers%20and%20arithmetic.ipynb
+# https://yash-kukreja-98.medium.com/recognizing-handwritten-digits-in-real-life-images-using-cnn-3b48a9ae5e3
+# https://medium.com/data-science/handwritten-digit-mnist-pytorch-977b5338e627
+# https://github.com/billy-enrizky/Pytorch-Handwritten-Digit-Recognition
+# https://nextjournal.com/gkoehler/pytorch-mnist
+# https://docs.pytorch.org/tutorials/beginner/nn_tutorial.html
+# https://medium.com/@simple.schwarz/how-to-build-a-gan-for-generating-mnist-digits-in-pytorch-b9bf71269da8
+# https://zackproser.com/blog/mnist-pytorch-hand-drawn-digit-recognizer
+# https://cocalc.com/github/ibm/watson-machine-learning-samples/blob/master/cpd4.0/notebooks/python_sdk/deployments/pytorch/Use%20Pytorch%20to%20recognize%20hand-written%20digits.ipynb
+
+# Py
+# https://stackoverflow.com/questions/57502484/what-is-the-difference-between-a-py-file-and-ipynb-file
+# https://docs.jupyter.org/en/latest/running.html
+# https://jupyter.org/install
+# https://www.geeksforgeeks.org/python/how-to-run-an-ipynb-jupyter-notebook-from-terminal/
+# https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+# https://swcarpentry.github.io/python-novice-gapminder/aio.html
+# https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+# PyCharm
+# Jupyter
+
+# pip install jupyterlab
+# pip install notebook
+
+# sudo apt install jupyter-core
+
+# jupyter lab
+# jupyter notebook
+
+# jupyter lab
+# jupyter notebook main.ipynb
+
+# pip install tensorflow
+# pip install matplotlib
+# pip install seaborn
+# pip install numpy
+# pip install pandas
+# pip install math
+# pip install datetime
+# pip install pydot
+# https://graphviz.gitlab.io/download/
+# winget install graphviz
