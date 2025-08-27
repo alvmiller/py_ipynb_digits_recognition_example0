@@ -1,0 +1,2 @@
+# py_ipynb_digits_recognition_mlp_example0
+py_ipynb_digits_recognition_mlp_example0
